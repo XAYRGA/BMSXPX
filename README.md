@@ -32,7 +32,7 @@ If you haven't extracted your sequences yet, BMSXPX will extract them for you an
 
 In a pinch, your folder should look like this. 
 
-(http://xayr.ga/share/01-2019/explorer_2019-01-13_04-34-48440ffa7e-c34f-4961-95fd-21cb14fbb519.png)[http://xayr.ga/share/01-2019/explorer_2019-01-13_04-34-48440ffa7e-c34f-4961-95fd-21cb14fbb519.png]
+![http://xayr.ga/share/01-2019/explorer_2019-01-13_04-34-48440ffa7e-c34f-4961-95fd-21cb14fbb519.png](http://xayr.ga/share/01-2019/explorer_2019-01-13_04-34-48440ffa7e-c34f-4961-95fd-21cb14fbb519.png)
 
 
 
