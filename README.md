@@ -1,3 +1,12 @@
+#THIS PROJECT HAS BEEN SUCCEEDED BY JAISEQX
+#Please see JaiSeqX at https://github.com/XAYRGA/JaiSeqX
+
+
+
+
+
+
+
 # BMSXPX - JAudio Engine Emulator / BMS Player 
 
 Please note that you'll need my fork of SharpDX to use this until my PR is merged, you can find it here.  https://github.com/TheFreezebug/SharpDX . Alternatively, you can use the contents found in the "prebuilt" folder if you don't want to use it. 
