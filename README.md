@@ -1,5 +1,5 @@
-#THIS PROJECT HAS BEEN SUCCEEDED BY JAISEQX
-#Please see JaiSeqX at https://github.com/XAYRGA/JaiSeqX
+# THIS PROJECT HAS BEEN SUCCEEDED BY JAISEQX
+# Please see JaiSeqX at https://github.com/XAYRGA/JaiSeqX
 
 
 
